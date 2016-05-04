@@ -1,5 +1,7 @@
 # SGo: a safer Go dialect [![Build Status](https://secure.travis-ci.org/tcard/sgo.svg?branch=master)](http://travis-ci.org/tcard/sgo)
 
+[![Join the chat at https://gitter.im/tcard/sgo](https://badges.gitter.im/tcard/sgo.svg)](https://gitter.im/tcard/sgo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 **Disclaimer: alpha stage!**
 
 SGo is a dialect of the Go programming language that **avoids nil-related panics at compile time**. It is based on idiomatic Go patterns, so SGo code feels familiar, and straightforwarldy compiles to and [works together with](#importing-from-and-exporting-to-go) plain Go.
